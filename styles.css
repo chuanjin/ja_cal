@@ -1,0 +1,28 @@
+.calculator {
+  font-size: 30px;
+  margin: 0 auto;
+  width: 300px;
+}
+
+.viewer {
+  color: rgba(10,5,5, 0.6);
+  padding: 10px;
+  float: left;
+  text-align: left;
+  overflow: hidden;
+  width: 200px;
+  height: 60px;
+  margin: 5px;
+}
+
+button {
+  border: 0;
+  border-radius: 10px;
+  background: rgba(0,10,100, 0.3);
+  color: rgba(10,10,100, 0.5);
+  cursor: pointer;
+  float: left;
+  margin: 5px;
+  width: 60px;
+  height: 60px;
+}
